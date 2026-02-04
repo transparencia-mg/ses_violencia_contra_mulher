@@ -2434,7 +2434,7 @@ resources:
              - 'Ignorado'
     scheme: file
     title: Violência contra Mulheres SES 2025
-    - dialect:
+  - dialect:
       delimiter: ;
     encoding: utf-8-sig
     format: csv
