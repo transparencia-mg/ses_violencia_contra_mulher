@@ -2573,6 +2573,7 @@ resources:
               - 'Bissexual'
               - 'Não se Aplica'
               - 'Ignorado'
+              - ' '
         - name: ident_gen
           type: any
           title: Identidade de gênero
@@ -2584,7 +2585,6 @@ resources:
              - 'Transsexual Homem'
              - 'Não se Aplica'
              - 'Ignorado'
-             - ' '
     scheme: file
     title: Violência contra Mulheres SES 2026
 title: Violência contra Mulheres - SES
