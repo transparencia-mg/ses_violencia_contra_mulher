@@ -2584,6 +2584,7 @@ resources:
              - 'Transsexual Homem'
              - 'Não se Aplica'
              - 'Ignorado'
+             - ' '
     scheme: file
     title: Violência contra Mulheres SES 2026
 title: Violência contra Mulheres - SES
